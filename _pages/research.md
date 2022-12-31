@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 header:
   og_image: "research/ecdf.png"
+redirect_to: /404
 ---
 
 My academic research falls into two main areas: understanding the influence of

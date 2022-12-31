@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hello"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,23 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+I am a second-year Ph.D. student in the Massachusetts Institute of Technology (MIT)/Woods Hole Oceanographic Institution (WHOI) Joint Program within the EECS department at MIT and the AOP&E department at WHOI. My research is focused on using machine learning to augment the abilities of acoustic sensors for large-scale ocean monitoring. 
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+I am affiliated with the Ocean Acoustics and Signals Lab (OASL) and the <a href="https://www2.whoi.edu/staff/dzitterbart" target="_blank">Marine Animal Remote Sensing Lab (MARS)</a> at WHOI and am co-advised by Drs. Julien Bonnel and Daniel Zitterbart.

@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Projects"
+show_title: true
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
